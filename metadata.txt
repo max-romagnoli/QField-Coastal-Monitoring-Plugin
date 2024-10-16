@@ -1,0 +1,6 @@
+[general]
+name=Coastal Vegetation
+description=Classify coastal vegetation classes
+author=Massimiliano Romagnoli
+icon=beach.svg
+version=1.0
